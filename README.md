@@ -1,4 +1,4 @@
-# WasingTime
+# WastingTime
 Waste some time on strange projects. Will you ? 
 
 ### camera_to_ascii
